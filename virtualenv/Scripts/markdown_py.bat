@@ -1,0 +1,1 @@
+@"c:\users\usuario\desktop\univer~1\9semes~1\conmut~1\conmut~2\virtua~1\scripts\python.exe" "c:\users\usuario\desktop\univer~1\9semes~1\conmut~1\conmut~2\virtua~1\Scripts\markdown_py" %*
